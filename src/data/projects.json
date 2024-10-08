@@ -55,5 +55,14 @@
     "tags": ["Javascript"],
     "liveDemo": "https://dupontandjensen.com/",
     "github": "https://github.com/Cheedy/deleteAllTweets2024"
+  },
+  {
+    "id": 8,
+    "title": "FC Tete Cramee",
+    "description": "Website of a friend's club, retrieval of the FLA API, display of rankings and matches and statistics.",
+    "image": "https://i.imgur.com/GS2TT5H.png",
+    "tags": ["ReactJS"],
+    "liveDemo": "https://tetecramee.pages.dev/",
+    "github": "https://github.com/Cheedy/tetecramee"
   }
 ]
