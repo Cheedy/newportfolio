@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Opiniometer",
+    "description": "Une application web pour analyser si une opinion sur un sujet spécifique est positive ou négative basée sur des tweets récents en utilisant le concept de traitement du langage naturel appelé Analyse de Sentiment.",
+    "image": "https://via.placeholder.com/600x400.png?text=Opiniometer",
+    "tags": ["React", "Python", "Chart.js"],
+    "github": "https://github.com/username/opiniometer",
+    "liveDemo": "https://opiniometer.example.com"
+  },
+  {
+    "id": 2,
+    "title": "creative@home",
+    "description": "Un site web qui fournit une feuille de route pour divers domaines de la programmation et aide les gens à apprendre à coder gratuitement.",
+    "image": "https://via.placeholder.com/600x400.png?text=creative@home",
+    "tags": ["Javascript", "Sass"],
+    "github": "https://github.com/username/creative-at-home",
+    "liveDemo": "https://creative-at-home.example.com"
+  },
+  {
+    "id": 3,
+    "title": "Prayer Time API",
+    "description": "Une API facile à utiliser pour obtenir les heures de prière d'aujourd'hui (et de demain !) dans n'importe quelle ville du monde, basée sur Muslim Pro.",
+    "image": "https://via.placeholder.com/600x400.png?text=Prayer+Time+API",
+    "tags": ["Python", "Flask", "Beautiful Soup"],
+    "github": "https://github.com/username/prayer-time-api",
+    "liveDemo": "https://prayer-time-api.example.com"
+  }
+]

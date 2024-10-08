@@ -1,0 +1,51 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.underline-animation {
+  position: relative;
+  display: inline-block;
+}
+
+.underline-animation::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 4px;
+  bottom: 0;
+  left: 0;
+  background-color: currentColor;
+  transform: scaleX(1);
+  transition: background-color 0.3s ease-out;
+}
+
+.bounce-squeeze-width {
+  animation: bounce-squeeze-width 1.5s infinite;
+}
+
+@keyframes bounce-squeeze-width {
+  0%, 100% {
+    transform: translateY(0) scale(1, 1);
+  }
+  50% {
+    transform: translateY(-20px) scale(0.9, 1);
+  }
+}
+
+.color-changing-button {
+  animation: color-change 5s infinite;
+}
+
+@keyframes color-change {
+  0% { background-color: #1e3a8a; }
+  25% { background-color: #065f46; }
+  50% { background-color: #5b21b6; }
+  75% { background-color: #881337; }
+  100% { background-color: #1e3a8a; }
+}
+
+.underline-animation::after {
+  animation: color-change 5s infinite;
+}
+
+/* Removed the 3D transform from .phone-container */
