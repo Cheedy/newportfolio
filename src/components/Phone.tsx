@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Phone: React.FC = () => {
   return (
@@ -30,7 +30,7 @@ const Phone: React.FC = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Phone
+export default Phone;

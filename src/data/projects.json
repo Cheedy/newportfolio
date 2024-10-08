@@ -1,29 +1,59 @@
 [
   {
     "id": 1,
-    "title": "Opiniometer",
-    "description": "Une application web pour analyser si une opinion sur un sujet spécifique est positive ou négative basée sur des tweets récents en utilisant le concept de traitement du langage naturel appelé Analyse de Sentiment.",
-    "image": "https://via.placeholder.com/600x400.png?text=Opiniometer",
-    "tags": ["React", "Python", "Chart.js"],
-    "github": "https://github.com/username/opiniometer",
-    "liveDemo": "https://opiniometer.example.com"
+    "title": "Boycott X",
+    "description": "For an ethical and sustainable future. \n Boycott X scans products and identify companies on boycott lists, encouraging more conscious choices.",
+    "image": "https://i.imgur.com/6sQpmHX.png",
+    "tags": ["Flutter", "Fastify", "Js", "NuxtJS"],
+    "liveDemo": "https://boycottx.fr/"
   },
   {
     "id": 2,
-    "title": "creative@home",
-    "description": "Un site web qui fournit une feuille de route pour divers domaines de la programmation et aide les gens à apprendre à coder gratuitement.",
-    "image": "https://via.placeholder.com/600x400.png?text=creative@home",
-    "tags": ["Javascript", "Sass"],
-    "github": "https://github.com/username/creative-at-home",
-    "liveDemo": "https://creative-at-home.example.com"
+    "title": "Adohotel",
+    "description": "Private server inspired by the online game Habbo, a virtual hotel where players can interact, make friends, and participate in various games. Age of project: +10 years",
+    "image": "https://i.imgur.com/6hnPe3E.png",
+    "tags": ["C#", "Nitrojs", "Sveltekit", "NodeJS"],
+    "liveDemo": "https://adohotel.eu/"
   },
   {
     "id": 3,
-    "title": "Prayer Time API",
-    "description": "Une API facile à utiliser pour obtenir les heures de prière d'aujourd'hui (et de demain !) dans n'importe quelle ville du monde, basée sur Muslim Pro.",
-    "image": "https://via.placeholder.com/600x400.png?text=Prayer+Time+API",
-    "tags": ["Python", "Flask", "Beautiful Soup"],
-    "github": "https://github.com/username/prayer-time-api",
-    "liveDemo": "https://prayer-time-api.example.com"
+    "title": "EFL Server",
+    "description": "HaxBall is a realtime multiplayer game that plays like a mix between football and air-hockey, i made a server for egyptian community, the server allows for automatic self-management, while providing precise statistics for each match.",
+    "image": "https://i.imgur.com/dcm1wJh.png",
+    "tags": ["Javascript"],
+    "liveDemo": "https://www.haxball.com/play?c=jDNpyO1t20Q"
+  },
+  {
+    "id": 4,
+    "title": "That's My Cars",
+    "description": "That's My Cars is a tool developed for the optimal management of a vehicle or fleet with complete peace of mind.",
+    "image": "https://i.imgur.com/sUxTTeM.png",
+    "tags": ["Flutter", "Fastify", "ReactJS"],
+    "liveDemo": "https://thatsmycars.com"
+  },
+  {
+    "id": 5,
+    "title": "My Co-Pro",
+    "description": "The \"MY COPRO\" application aims to facilitate relationships and exchanges between different players in the same co-ownership.",
+    "image": "https://i.imgur.com/NzZyu2g.png",
+    "tags": ["Flutter", "Fastify", "NuxtJS"],
+    "liveDemo": "https://my-copro.eu/"
+  },
+  {
+    "id": 6,
+    "title": "Dupont & Jensen",
+    "description": "The Dupont & Jensen application allows you to manage reservations for a travel agency as well as for a luxury concierge service.",
+    "image": "https://i.imgur.com/ewqqvyh.png",
+    "tags": ["Flutter", "Fastify", "NuxtJS"],
+    "liveDemo": "https://dupontandjensen.com/"
+  },
+  {
+    "id": 7,
+    "title": "deleteAllTweets",
+    "description": "This script allows you to delete all tweets and retweets from your own Twitter (X) account automatically",
+    "image": "https://i.imgur.com/Ud0qPjV.png",
+    "tags": ["Javascript"],
+    "liveDemo": "https://dupontandjensen.com/",
+    "github": "https://github.com/Cheedy/deleteAllTweets2024"
   }
 ]
