@@ -53,7 +53,7 @@
     "description": "This script allows you to delete all tweets and retweets from your own Twitter (X) account automatically",
     "image": "https://i.imgur.com/Ud0qPjV.png",
     "tags": ["Javascript"],
-    "liveDemo": "https://dupontandjensen.com/",
+    "liveDemo": "https://github.com/Cheedy/deleteAllTweets2024",
     "github": "https://github.com/Cheedy/deleteAllTweets2024"
   },
   {
